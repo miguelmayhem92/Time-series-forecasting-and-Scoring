@@ -3,7 +3,7 @@
 ### Brief Summary
 This project is part of my grad project thesis. I explore a business data base where the challenge is to:
 * Create a score that qulifies the customer payment quality
-* A machine that can predict customer payment quality
+* A machine that can forecast customer payment quality
 
 ### Strategy
 In order to address the subject:
